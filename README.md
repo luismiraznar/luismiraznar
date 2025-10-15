@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I’m Luis Mira  
 
-<!--
-**luismiraznar/luismiraznar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Social Media Manager transitioning into Data Analytics**, passionate about understanding how people and numbers connect.  
 
-Here are some ideas to get you started:
+After several years leading digital strategies for brands, I decided to focus on the analytical side — recently completing a **Data Analytics Bootcamp at Neoland**, where I worked with **Python, SQL, Power BI, and Tableau**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently exploring data projects related to marketing, music, and user behavior, applying visualization and storytelling to extract actionable insights.  
+
+I believe data should not replace creativity — it should sharpen it.  
+
+📊 Tools & Skills: Python · SQL · Power BI · Tableau · Pandas · Data Visualization · Data Storytelling  
+
+📬 Feel free to reach out if you’d like to share ideas, collaborate, or just talk about data and design.  
