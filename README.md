@@ -8,6 +8,6 @@ I’m currently exploring data projects related to marketing, music, and user be
 
 I believe data should not replace creativity — it should sharpen it.  
 
-📊 Tools & Skills: Python · SQL · Power BI · Tableau · Pandas · Data Visualization · Data Storytelling  
+📊 Tools & Skills: Python · SQL · Power BI · Tableau · Pandas
 
 📬 Feel free to reach out if you’d like to share ideas, collaborate, or just talk about data and design.  
