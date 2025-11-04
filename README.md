@@ -11,7 +11,7 @@ I’m currently exploring projects related to **marketing, music, and user behav
 
 ---
 
-### 🛠️ **Tech Stack**
+### **Tech Stack**
 | Language / Tool | Skillset |
 |------------------|-----------|
 | **Python** | Data cleaning · Pandas · Matplotlib |
